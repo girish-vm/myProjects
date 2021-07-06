@@ -56,7 +56,7 @@ System.out.println("Int: " + i);
 scan.close();
 }
 
-public static void listFinding()
+static public  void listFinding()
 {
 	List<String>myList=Arrays.asList("girish","lokesh","lalah");
 	List<String>myList1=new ArrayList<String>();
